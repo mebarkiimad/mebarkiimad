@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm imad mebarki</h1>
-<h3 align="center">A passionate fullstack developer from Algeria</h3>
+<h1 align="center">Oh Hi there 👋, I'm imad mebarki</h1>
+<h3 align="center">A passionate fullstack developer 🤓 from Algeria 🇩🇿</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
