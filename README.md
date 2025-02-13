@@ -21,7 +21,7 @@
 - 🌱 Learning and growing in **[Laravel and ML using Python]**
 - 👯 Open to collaborate on **innovative web projects**
 - 💬 Ask me about **Full Stack Development, On my way from zero to hero**
-- ⚡ Fun fact: **[Performance Society]**
+- ⚡ Fun fact: **[obsession with performance and perfection]**
 
 ### 💻 Tech Stack
 
