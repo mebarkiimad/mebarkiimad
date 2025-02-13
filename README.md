@@ -10,8 +10,8 @@
 <div align="center">
   <p>🇩🇿 Based in Algeria | 💻 Full Stack Developer | 🌟 Building Digital Solutions</p>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/mebarkiahmed)) 
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]([https://twitter.com/YOUR_TWITTER](https://x.com/3imadmebarki))
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mebarkiahmed)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/3imadmebarki)
 </div>
 
 ---
