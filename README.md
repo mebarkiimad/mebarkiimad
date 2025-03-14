@@ -27,7 +27,7 @@
 - 🚀 Always striving to level up my skills: from writing better code to building better systems
 - ⚡ Fun fact: I have an **obsession with performance optimization** - I won't rest until every millisecond counts!
 - 🎨 Philosophy: "Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away"
-- 🌟 Goal for 2024: Contributing more to open-source projects and building a stronger tech community
+- 🌟 Goal for 2025: Contributing more to open-source projects and building a stronger tech community
 
 ---
 
